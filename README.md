@@ -5,7 +5,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>PHP</li>
-  </li>AJAX</li>
+  <li>AJAX</li>
 </ul>
   
 
